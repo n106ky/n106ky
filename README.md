@@ -31,12 +31,6 @@
 ⚡ Fun fact: I cannot think of any but people often find me funny.<br><br>
 
 
-<h1>PERSONAL PROJECTS</h1>
-+ Cat Mercenary: https://n106ky-catmercenary.cyclic.app/<br>
-- Concept: Hire the cats to work. <br>
-- <i>Note</i>: The connection between Cyclic and MongoDB is not functioning seamlessly at the moment. 
-<br><br>
-
 <h1>LANGUAGES / PLATFORMS</h1>
 <ul>
 <b>Computer:</b><br>
@@ -60,3 +54,10 @@
   <img width="24" height="24" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
   <br>
 </ul>
+<br>
+
+<h1>PERSONAL PROJECTS</h1>
++ Cat Mercenary: https://n106ky-catmercenary.cyclic.app/<br>
+- Concept: Hire the cats to work. <br>
+- <i>Note</i>: The connection between Cyclic and MongoDB is not functioning seamlessly at the moment. 
+<br><br>
