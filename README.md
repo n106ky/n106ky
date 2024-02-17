@@ -1,5 +1,7 @@
 <h1>THIS IS N.C.</h1>
-👋 Hi, I'm N.C. Welcome to my hub. <br><br>
+👋 Hi, I'm N.C. Welcome to my hub. <br>
+In everything I do, I try to give 100%. <br><br>
+
 👀 I’m interested in: 
 <ul>
 <b>Computer:</b><br>
