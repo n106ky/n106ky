@@ -1,6 +1,6 @@
 <h1>THIS IS N.C.</h1>
 👋 Hi, I'm N.C. Welcome to my hub. <br>
-In everything I do, I try to give 100%. <br><br>
+<b><i>+ In everything I do, I try to give 100%. </i></b> <br><br>
 
 👀 I’m interested in: 
 <ul>
