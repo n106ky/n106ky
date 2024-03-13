@@ -62,4 +62,6 @@
 + Cat Mercenary: https://n106ky-catmercenary.cyclic.app/<br>
 - Concept: Hire the cats to work. <br>
 - <i>Note</i>: The connection between Cyclic and MongoDB is not functioning seamlessly at the moment. 
-<br><br>
+<br><be>
+
+<b>N.C. Nicole Chan</b>
