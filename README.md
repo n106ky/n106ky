@@ -17,7 +17,7 @@
 <ul>
   <b>Learning (other than programming):</b><br>
 + Financial Planning<br>
-+ Investment<br>
+
 </ul>
 <ul>
   <b>Anime:</b><br>
