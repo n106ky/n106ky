@@ -12,13 +12,8 @@
 <b>Sports:</b><br>
 + Gym<br>
 + Swimming<br>
-+ Skating<br>
 </ul>
-<ul>
-  <b>Learning (other than programming):</b><br>
-+ Financial Planning<br>
 
-</ul>
 <ul>
   <b>Anime:</b><br>
 + Naruto<br>
