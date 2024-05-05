@@ -8,7 +8,7 @@
 + Database management<br>
 + Front-end development<br>
 </ul>
-<ul>
+<!-- <ul>
 <b>Sports:</b><br>
 + Gym<br>
 + Swimming<br>
@@ -20,7 +20,7 @@
 + Attack on Titan<br>
 + One Piece<br>
 </ul>
-<br>
+<br> -->
 🌱 I’m currently doing a database engineering course and a react-native course.  <br>
 💞️ I’m looking to collaborate on ... (I would love to but currently not available) <br>
 📫 How to reach me? via LinkedIn. <br>
