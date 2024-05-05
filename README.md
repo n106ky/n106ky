@@ -23,7 +23,7 @@
 <br> -->
 🌱 I’m currently doing a database engineering course and a react-native course.  <br>
 💞️ I’m looking to collaborate on ... (I would love to but currently not available) <br>
-📫 How to reach me? via LinkedIn. <br>
+📫 How to reach me? via LinkedIn: https://www.linkedin.com/in/nc16/ <br>
 😄 Pronouns: She / Her. <br>
 ⚡ Fun fact: People often find me funny. Fun? <br><br>
 
