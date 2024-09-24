@@ -43,6 +43,8 @@
   <img width="24" height="24" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
   <img width="24" height="24" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/>
   <img width="24" height="24" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+  <img width="24" height="24" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" alt="react"/>
+  
   
 
   <br>
