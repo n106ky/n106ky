@@ -70,4 +70,4 @@
 - Collaborator: @etersh
 <br><br><br>
 
-<strong style="font-size: 8px"> Nicole Chan · N.C · Updated <i>2024 March</i>. </strong>
+<strong style="font-size: 8px"> Nicole Chan · N.C · Updated <i>2024 September</i>. </strong>
