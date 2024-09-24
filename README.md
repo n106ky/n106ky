@@ -42,10 +42,11 @@
   <img width="24" height="24" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
   <img width="24" height="24" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
   <img width="24" height="24" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/>
+  <img width="24" height="24" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+    <img width="24" height="24" src="https://img.icons8.com/color/48/react" alt="react"/>
   <br>
 + <b>Database:</b> 
   <img width="24" height="24" src="https://img.icons8.com/ios/50/sql.png" alt="sql"/>
-  <img width="24" height="24" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img width="24" height="24" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
   <img width="24" height="24" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
   <img width="24" height="24" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
