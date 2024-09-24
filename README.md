@@ -57,6 +57,12 @@
 + Cat Mercenary: https://n106ky-catmercenary.cyclic.app/<br>
 - Concept: Hire the cats to work. <br>
 - <i>Note</i>: The connection between Cyclic and MongoDB is not functioning seamlessly at the moment. 
+<br><br><be>
+
+<h1>COLLAB PROJECTS</h1>
++ Another Steam: [https://n106ky-catmercenary.cyclic.app](https://anothersteam.vercel.app/)/<br>
+- Concept: Retrieve real data using Steam WEB API, recreate a Steam Database with stylish UI/UX. <br>
+- <i>Note</i>: To register, make sure you input your real steam id (Not a scam, it's for the API). 
 <br><br><br>
 
 <strong style="font-size: 8px"> Nicole Chan · N.C · Updated <i>2024 March</i>. </strong>
