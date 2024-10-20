@@ -25,7 +25,6 @@
 💞️ I’m looking to collaborate on ... (I would love to but currently not available) <br>
 📫 How to reach me? via LinkedIn: https://www.linkedin.com/in/nc16/ <br>
 😄 Pronouns: She / Her. <br>
-⚡ Fun fact: ?????? <br><br>
 
 
 <h1>LANGUAGES / PLATFORMS</h1>
