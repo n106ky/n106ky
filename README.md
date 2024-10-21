@@ -63,7 +63,7 @@
 # COLLAB PROJECTS
 - AnotherSteam: https://anothersteam.vercel.app/
 - Concept: Retrieve real data using Steam WEB API, recreate a Steam Database with stylish UI/UX. 
-- <i>Note</i>: To register, make sure you input your real steam id (Not a scam, it's for the API).
+- <i>Note</i>: To register, make sure you input your real steam id (Safe, merely for the API).
 - Collaborator: @etersh
 
 <br><br>
