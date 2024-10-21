@@ -55,13 +55,13 @@
 <br>
 
 # PERSONAL PROJECTS
-+ Cat Mercenary: https://n106ky-catmercenary.cyclic.app/
+- Cat Mercenary: https://n106ky-catmercenary.cyclic.app/
 - Concept: Hire the cats to work. 
 - <i>Note</i>: The connection between Cyclic and MongoDB is not functioning seamlessly at the moment.
 <br>
 
 # COLLAB PROJECTS
-+ AnotherSteam: https://anothersteam.vercel.app/
+- AnotherSteam: https://anothersteam.vercel.app/
 - Concept: Retrieve real data using Steam WEB API, recreate a Steam Database with stylish UI/UX. 
 - <i>Note</i>: To register, make sure you input your real steam id (Not a scam, it's for the API).
 - Collaborator: @etersh
