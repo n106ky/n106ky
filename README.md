@@ -1,4 +1,4 @@
-<h1>THIS IS N.C.</h1>
+# THIS IS N.C.
 👋 Hi, I'm N.C. Welcome to my hub. <br>
 <b><i>+ In everything I do, I try to give 100%. </i></b> <br><br>
 
@@ -25,9 +25,9 @@
 💞️ I’m looking to collaborate on ... (I would love to but currently not available) <br>
 📫 How to reach me? via LinkedIn: https://www.linkedin.com/in/nc16/ <br>
 😄 Pronouns: She / Her. <br>
+  <br><br>
 
-
-<h1>LANGUAGES / PLATFORMS</h1>
+# LANGUAGES / PLATFORMS
 <ul>
 <b>Computer:</b><br>
 + <b>Software:</b> 
@@ -44,8 +44,6 @@
   <img width="24" height="24" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img width="24" height="24" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" alt="react"/>
   
-  
-
   <br>
 + <b>Database:</b> 
   <img width="24" height="24" src="https://img.icons8.com/ios/50/sql.png" alt="sql"/>
@@ -56,17 +54,17 @@
 </ul>
 <br>
 
-<h1>PERSONAL PROJECTS</h1>
-+ Cat Mercenary: https://n106ky-catmercenary.cyclic.app/<br>
-- Concept: Hire the cats to work. <br>
-- <i>Note</i>: The connection between Cyclic and MongoDB is not functioning seamlessly at the moment. 
-<br><br><be>
+# PERSONAL PROJECTS
++ Cat Mercenary: https://n106ky-catmercenary.cyclic.app/
+- Concept: Hire the cats to work. 
+- <i>Note</i>: The connection between Cyclic and MongoDB is not functioning seamlessly at the moment.
+<br><br>
 
-<h1>COLLAB PROJECTS</h1>
-+ AnotherSteam: https://anothersteam.vercel.app/<br>
-- Concept: Retrieve real data using Steam WEB API, recreate a Steam Database with stylish UI/UX. <br>
-- <i>Note</i>: To register, make sure you input your real steam id (Not a scam, it's for the API). <br>
+# COLLAB PROJECTS
++ AnotherSteam: https://anothersteam.vercel.app/
+- Concept: Retrieve real data using Steam WEB API, recreate a Steam Database with stylish UI/UX. 
+- <i>Note</i>: To register, make sure you input your real steam id (Not a scam, it's for the API).
 - Collaborator: @etersh
-<br><br><br>
+<br><br>
 
-<strong style="font-size: 8px"> Nicole Chan · N.C · Updated <i>2024 September</i>. </strong>
+<strong style="font-size: 8px"> Nicole Chan · N.C · Updated <i>2024 October</i>. </strong>
