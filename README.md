@@ -25,7 +25,7 @@
 💞️ I’m looking to collaborate on ... (I would love to but currently not available) <br>
 📫 How to reach me? via LinkedIn: https://www.linkedin.com/in/nc16/ <br>
 😄 Pronouns: She / Her. <br>
-  <br><br>
+<br>
 
 # LANGUAGES / PLATFORMS
 <ul>
@@ -58,13 +58,13 @@
 + Cat Mercenary: https://n106ky-catmercenary.cyclic.app/
 - Concept: Hire the cats to work. 
 - <i>Note</i>: The connection between Cyclic and MongoDB is not functioning seamlessly at the moment.
-<br><br>
+<br>
 
 # COLLAB PROJECTS
 + AnotherSteam: https://anothersteam.vercel.app/
 - Concept: Retrieve real data using Steam WEB API, recreate a Steam Database with stylish UI/UX. 
 - <i>Note</i>: To register, make sure you input your real steam id (Not a scam, it's for the API).
 - Collaborator: @etersh
-<br><br>
 
+<br><br>
 <strong style="font-size: 8px"> Nicole Chan · N.C · Updated <i>2024 October</i>. </strong>
