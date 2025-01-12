@@ -61,7 +61,7 @@
 - Collaborator: @etersh
 <br>
 
-# PERSONAL PROJECTS
+# PASSION PROJECTS
 - Cat Mercenary: https://n106ky-catmercenary.cyclic.app/
 - Concept: Hire the cats to work. 
 - <i>Note</i>: The connection between Cyclic and MongoDB is not functioning seamlessly at the moment.
