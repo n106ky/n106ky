@@ -5,7 +5,7 @@
 👀 I’m interested in: 
 <ul>
 <b>Computer:</b><br>
-+ Database management<br>
++ Database development<br>
 + Front-end development<br>
 </ul>
 <!-- <ul>
@@ -21,8 +21,8 @@
 + One Piece<br>
 </ul>
 <br> -->
-🌱 I’m currently doing a database engineering course and a react-native course.  <br>
-💞️ I’m looking to collaborate on ... (I would love to but currently not available) <br>
+🌱 I’m currently doing a database engineering course and a figma course.  <br>
+💞️ I’m currently collaborating on a mobile app. (If you’d like to collaborate with me, please see the next line.)<br>
 📫 How to reach me? via LinkedIn: https://www.linkedin.com/in/nc16/ <br>
 😄 Pronouns: She / Her. <br>
 <br>
@@ -67,4 +67,4 @@
 - <i>Note</i>: The connection between Cyclic and MongoDB is not functioning seamlessly at the moment.
 
 <br><br>
-<strong style="font-size: 8px"> Nicole Chan · N.C · Updated <i>2024 October</i>. </strong>
+<strong style="font-size: 8px"> Nicole Chan · N.C · Updated <i>2025 Jan</i>. </strong>
