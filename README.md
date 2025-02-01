@@ -62,21 +62,21 @@
 <br>
 
 # PROJECTS
-## COLLAB PROJECTS
+## COLLAB PROJECT
 - AnotherSteam: https://anothersteam.vercel.app/
 - Concept: Retrieve real data using Steam WEB API, recreate a Steam Database with stylish UI/UX. 
 - <i>Note</i>: To register, make sure you input your real steam id (Safe, merely for the API).
 - Collaborator: @etersh
 <br>
 
-## PASSION PROJECTS
+## PASSION PROJECT
 - Cat Mercenary: https://n106ky-catmercenary.cyclic.app/
 - Concept: Hire the cats to work. 
 - <i>Note</i>: The connection between Cyclic and MongoDB is not functioning seamlessly at the moment.
 - (This project will be updated soon.)
 <br>
 
-## TINY PROJECTS
+## TINY PROJECT
 - WEATHER API: https://weather-api-nky.vercel.app/
 - Concept: Search for the weather by city
 
