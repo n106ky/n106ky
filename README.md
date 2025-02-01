@@ -21,7 +21,14 @@
 + One Piece<br>
 </ul>
 <br> -->
-🌱 I’m currently doing a database engineering course and a figma course.  <br>
+
+🌱 I’m currently in my 3rd year:
+
+- Taking a Cloud Computing course
+- Advancing my skills in PL/SQL
+- Exploring something fun like Blender for 3D modeling
+- Taking a database engineering course and a Figma course besides school
+
 💞️ I’m currently collaborating on a mobile app. (If you’d like to collaborate with me, please see the next line.)<br>
 📫 How to reach me? via LinkedIn: https://www.linkedin.com/in/nc16/ <br>
 😄 Pronouns: She / Her. <br>
@@ -54,18 +61,25 @@
 </ul>
 <br>
 
-# COLLAB PROJECTS
+# PROJECTS
+## COLLAB PROJECTS
 - AnotherSteam: https://anothersteam.vercel.app/
 - Concept: Retrieve real data using Steam WEB API, recreate a Steam Database with stylish UI/UX. 
 - <i>Note</i>: To register, make sure you input your real steam id (Safe, merely for the API).
 - Collaborator: @etersh
 <br>
 
-# PASSION PROJECTS
+## PASSION PROJECTS
 - Cat Mercenary: https://n106ky-catmercenary.cyclic.app/
 - Concept: Hire the cats to work. 
 - <i>Note</i>: The connection between Cyclic and MongoDB is not functioning seamlessly at the moment.
 - (This project will be updated soon.)
+<br>
+
+## TINY PROJECTS
+- WEATHER API: https://weather-api-nky.vercel.app/
+- Concept: Search for the weather by city
+
 
 <br><br>
-<strong style="font-size: 8px"> Nicole Chan · N.C · Updated <i>2025 Jan</i>. </strong>
+<strong style="font-size: 8px"> Nicole Chan · N.C · Updated <i>2025 Feb</i>. </strong>
