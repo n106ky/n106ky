@@ -70,10 +70,10 @@
 <br>
 
 ## PASSION PROJECT
-- Cat Mercenary: https://n106ky-catmercenary.cyclic.app/
-- Concept: Hire the cats to work. 
-- <i>Note</i>: The connection between Cyclic and MongoDB is not functioning seamlessly at the moment.
-- (This project will be updated soon.)
+- Cat Mercenary: https://cat-mercenary-v1.vercel.app/
+- Concept: Hire the cats to work. In this stage it's merely a shopping platform.
+- Using HTML, CSS, JavaScript, Database (MongoDB, NeonDB)
+- (This project will be updated, more elements will be included...)
 <br>
 
 ## TINY PROJECT
