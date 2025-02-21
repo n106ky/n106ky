@@ -72,7 +72,7 @@
 ## PASSION PROJECT
 - Cat Mercenary: https://cat-mercenary-v1.vercel.app/
 - Concept: Hire the cats to work. At this stage, it's merely a shopping platform.
-- Using HTML, CSS, JavaScript, Database (MongoDB, NeonDB)
+- Skills: HTML, CSS, JavaScript, Database (MongoDB, NeonDB)
 - (This project will be updated, more elements will be included...)
 <br>
 
