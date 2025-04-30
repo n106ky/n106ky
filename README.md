@@ -22,7 +22,7 @@
 </ul>
 <br> -->
 
-🌱 I’m currently in my 3rd year
+🌱 I’m currently in my 3rd year<br>
 💞️ I’m currently collaborating on a mobile app. (If you’d like to collaborate with me, please see the next line.)<br>
 📫 How to reach me? via LinkedIn: https://www.linkedin.com/in/nc16/ <br>
 <br>
