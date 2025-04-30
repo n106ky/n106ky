@@ -22,13 +22,7 @@
 </ul>
 <br> -->
 
-🌱 I’m currently in my 3rd year:
-
-- Taking a Cloud Computing course
-- Advancing my skills in PL/SQL
-- Exploring something fun like Blender for 3D modeling
-- Taking a database engineering course and a Figma course besides school
-
+🌱 I’m currently in my 3rd year
 💞️ I’m currently collaborating on a mobile app. (If you’d like to collaborate with me, please see the next line.)<br>
 📫 How to reach me? via LinkedIn: https://www.linkedin.com/in/nc16/ <br>
 <br>
@@ -81,4 +75,4 @@
 
 
 <br><br>
-<strong style="font-size: 8px"> Nicole Chan · N.C · Updated <i>2025 Feb</i>. </strong>
+<strong style="font-size: 8px"> Nicole Chan · N.C · Updated <i>2025 April</i>. </strong>
