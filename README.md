@@ -7,6 +7,8 @@
 <b>Computer:</b><br>
 + Database development<br>
 + Front-end development<br>
++ Blender 3D Animation<br>
+  
 </ul>
 <!-- <ul>
 <b>Sports:</b><br>
