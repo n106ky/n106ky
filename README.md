@@ -32,10 +32,10 @@
 # LANGUAGES / PLATFORMS
 <ul>
 <b>Computer:</b><br>
-+ <b>Software:</b> 
+<!-- + <b>Software:</b> 
   <img width="24" height="24" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
   <img width="24" height="24" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-  <br>
+  <br> -->
 + <b>Web:</b>
   <img width="24" height="24" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
   <img width="24" height="24" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
