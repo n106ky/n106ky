@@ -1,6 +1,7 @@
 # THIS IS N.C.
 👋 Hi, I'm N.C. Welcome to my hub. <br>
-<b><i>+ In everything I do, I try to give 100%. </i></b> <br><br>
+<!-- <b><i>+ In everything I do, I try to give 100%. </i></b> <br><br> -->
+<!-- <b><i>+ Too many interests, too little time. </i></b> <br><br> -->
 
 👀 I’m interested in: 
 <ul>
