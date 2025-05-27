@@ -5,8 +5,7 @@
 👀 I’m interested in: 
 <ul>
 <b>Computer:</b><br>
-+ Database development<br>
-+ Front-end development<br>
++ Web/App development<br>
 + Blender 3D Animation<br>
   
 </ul>
