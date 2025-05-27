@@ -9,25 +9,6 @@
 + Web/App development<br>
 + Blender 3D Animation<br>
   
-</ul>
-<!-- <ul>
-<b>Sports:</b><br>
-+ Gym<br>
-+ Swimming<br>
-</ul>
-
-<ul>
-  <b>Anime:</b><br>
-+ Naruto<br>
-+ Attack on Titan<br>
-+ One Piece<br>
-</ul>
-<br> -->
-
-🌱 I’m currently in my 3rd year<br>
-💞️ I’m currently collaborating on a mobile app.<br>
-📫 How to reach me? via LinkedIn: https://www.linkedin.com/in/nc16/ <br>
-<br>
 
 # LANGUAGES / PLATFORMS
 <ul>
