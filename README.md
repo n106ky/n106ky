@@ -3,9 +3,7 @@
 <!-- <b><i>+ In everything I do, I try to give 100%. </i></b> <br><br> -->
 <b><i>+ Too many interests, too little time. </i></b> <br><br>
 
-👀 I’m interested in: 
-<ul>
-<b>Computer:</b><br>
+I’m interested in: 
 + Web/App development<br>
 + Blender 3D Animation<br>
   
