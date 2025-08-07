@@ -10,13 +10,12 @@
 
 ### Passion
 - Cat Mercenary: https://cat-mercenary-v1.vercel.app/
-- Concept: Hire the cats to work. At this stage, it's merely a shopping platform.
-- Skills: HTML, CSS, JavaScript, Database (MongoDB, NeonDB)
-- (This project will be updated, more elements will be included...)
+- Concept: Hire the cats to work. ()
+- Remarks: Incomplete - This project will be updated, more elements will be included...
 
 ### Tiny
 - WEATHER API: https://weather-api-nky.vercel.app/
 - Concept: Search for the weather by city
 
 <br><br>
-<strong style="font-size: 8px"> Nicole Chan · N.C · Updated <i>2025 May</i>. </strong>
+<strong style="font-size: 8px"> Nicole Chan · N.C · Updated <i>2025 August</i>. </strong>
