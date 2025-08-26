@@ -10,7 +10,7 @@
 
 ### Passion
 - Cat Mercenary: https://cat-mercenary-v1.vercel.app/
-- Concept: Hire the cats to work. ()
+- Concept: Hire the cats to work.
 - Remarks: Incomplete - This project will be updated, more elements will be included...
 
 ### Tiny
