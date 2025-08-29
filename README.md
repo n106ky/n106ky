@@ -1,5 +1,13 @@
-👋 Hi, this is N.C. Welcome to my hub.
+<div align="center">
 
-<p>Waiting for an update...</p>
+### 👋 Hi, this is N.C. — welcome to my hub
 
-<strong style="font-size: 8px"> Nicole Chan · N.C · Updated <i>2025 August</i>. </strong>
+<br />
+
+*Waiting for an update…*
+
+<br />
+
+<small>Nicole Chan · N.C · Updated August 2025</small>
+
+</div>
