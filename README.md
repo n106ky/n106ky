@@ -8,6 +8,6 @@
 
 <br />
 
-<small>Nicole Chan · N.C · Updated August 2025</small>
+<small>Nicole Chan · N.C · Updated September 2025</small>
 
 </div>
