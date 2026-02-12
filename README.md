@@ -9,9 +9,9 @@
 (That's my cat)
 <br /><br />
 
-Still busy updating my profile...<br /><br />
+Currently working on a mobile platform for UX/UI & front-end development.<br /><br />
 
 
-<small>Nicole Chan · N.C · Updated October 2025</small>
+<small>Nicole Chan · N.C · Updated Feb 2026</small>
 
 </div>
