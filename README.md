@@ -1,6 +1,7 @@
 <div align="center">
 
 ### 👋 Hi, this is N.C.
+[N.C. hub](https://cd-nc.dev/)
 
 <br />
 
@@ -8,6 +9,8 @@
 <br /><br />
 
 Currently working on a mobile platform for UX/UI & front-end development.<br /><br />
+
+
 
 
 <small>Nicole Chan · N.C · Updated Feb 2026</small>
